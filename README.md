@@ -2,7 +2,7 @@
 
 - Create a folder (any name .)
   > ex: doctors-portal-server
-- npm init -y
+  > npm init -y
 - npm install express cors dot
   env mongodb
   -create a index.js file
@@ -14,3 +14,8 @@
 - copy or write code index.js file (you can search on google 'express js hello word')
 - goto package.json file & edit 'scripts' file
 - add Two scripts ` "start":"node index.js", "start-dev":"nodemon index.js",`
+
+```javascript
+npm init -y
+
+```
