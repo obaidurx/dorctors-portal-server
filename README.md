@@ -11,8 +11,7 @@ npm init -y
 ```
 
 ```javascript
-npm install express cors dot
-  env mongodb
+npm install express cors dotenv mongodb
 
 ```
 
